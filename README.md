@@ -12,7 +12,7 @@ Este é um projeto simples em Python que permite converter valores entre diferen
 ---
 
 ## 🚀 Tecnologias Utilizadas
-- **Python 3.10+**
+- **Python 3.12+**
 - **Biblioteca Requests**: para consumir a API de câmbio.
 - **API de Taxas de Câmbio**: [Awesome API](https://economia.awesomeapi.com.br/).
 
