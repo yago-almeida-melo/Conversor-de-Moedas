@@ -25,6 +25,7 @@ Este é um projeto simples em Python que permite converter valores entre diferen
 - Biblioteca `requests` instalada. Caso não tenha, instale com:
   ```bash
   pip install requests
+  pip install tkinter
 
 ### Passos
 1. Clone o repo: https://github.com/yago-almeida-melo/Conversor-de-Moedas.git
