@@ -22,12 +22,14 @@ Este é um projeto simples em Python que permite converter valores entre diferen
 
 ### Pré-requisitos
 - Python 3.12 ou superior instalado.
-- Biblioteca `requests` instalada. Caso não tenha, instale com:
-  ```bash
-  pip install requests
-  pip install tkinter
+
 
 ### Passos
 1. Clone o repo: https://github.com/yago-almeida-melo/Conversor-de-Moedas.git
 2. Acesse a pasta do projeto: cd ConversorDeMoedas
-3. Execute: python Conversor.py
+4. Criar ambiente virtual:
+  1- python -m venv venv
+  2- #Linux/Mac: source venv/bin/activate
+     #Windows: venv\Scripts\activate
+  3- pip install -r requirements.txt 
+5. Execute: python Conversor.py
